@@ -1,1 +1,1 @@
-# softuni2024-job_board
+The final project is an ASP.NET Advanced web application, specifically an online board for job postings. It will have register page and login, and in the near future will have also 2FA authentication and Sign-in with Social Media (Google, Linkedin etc.)
